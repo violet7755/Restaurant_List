@@ -13,19 +13,19 @@ Bootstrap 5.2.0
 
 2.安裝與執行步驟 (installation and execution)：
 
-2.1 將本專案下載至本地
+2.1 將本專案下載至本地: 
 git clone https://github.com/violet7755/Restaurant_List
 
-2.2 安裝 npm
+2.2 安裝 npm: 
 npm install
 
-2.3 安裝 nodemon
+2.3 安裝 nodemon: 
 npm i nodemon
 
-2.4 啟動伺服器
+2.4 啟動伺服器: 
 npm run dev
 
-2.5 若執行成功將呈現以下訊息
+2.5 若執行成功將呈現以下訊息: 
 Express is listening on localhost:3000
 
 2.6 用瀏覽器進入此網址: http://localhost:3000
