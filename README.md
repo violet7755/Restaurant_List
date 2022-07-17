@@ -1,10 +1,15 @@
 1.環境建置與需求 (prerequisites)：
 
 Node.js @14.16.0
+
 Express @4.16.4
+
 Express-handlebars @3.0.0
+
 Font-awesome @6.1.1
+
 Bootstrap 5.2.0
+
 
 2.安裝與執行步驟 (installation and execution)：
 
