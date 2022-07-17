@@ -1,0 +1,28 @@
+<!-- ./views/show.handlebars -->
+<div class="container py-5">
+  <div class="text-center">
+    <h1 class="mb-4">{{restaurant.name}}</h1>
+  </div>
+
+  <div class="row">
+    <div class="col-12 col-md-10 col-lg-8 mx-auto">
+      <p class="text-secondary mb-1">
+        <strong>Type：</strong>
+        {{restaurant.category}}
+      </p>
+      
+      <p class="text-secondary mb-1">
+        {{restaurant.description}}
+      </p>
+      <img class="rounded mx-auto d-block mb-4 w-100" src="{{restaurant.image}}" alt="{{restaurant.name}}" style="max-width: 600px;">
+      <p class="text-secondary mb-1">
+        <strong>Address：</strong>
+        {{restaurant.location}}
+      </p>
+      <p class="text-secondary mb-1">
+        <strong>TEL：</strong>
+        {{restaurant.phone}}
+      </p>
+    </div>
+  </div>
+</div>
