@@ -14,7 +14,7 @@ Bootstrap 5.2.0
 2.安裝與執行步驟 (installation and execution)：
 
 2.1 將本專案下載至本地
-git clone https://github.com/HsiaooooooJu/Restaurant-List-Demo.git
+git clone https://github.com/violet7755/Restaurant_List
 
 2.2 安裝 npm
 npm install
