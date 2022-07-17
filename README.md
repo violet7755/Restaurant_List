@@ -26,7 +26,7 @@ npm i nodemon
 npm run dev
 
 2.5 若執行成功將呈現以下訊息
-App is running on http://localhost:3000
+Express is listening on localhost:3000
 
 2.6 用瀏覽器進入此網址: http://localhost:3000
 
